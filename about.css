@@ -1,0 +1,26 @@
+#bla{
+  padding-left: 15%;
+  padding-top: 15%;
+
+}
+body{
+  font-family: lato;
+  color: black;
+  background: url(bs.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+p{
+  font-family:serif;
+  color: white;
+  padding-top: 3%;
+  padding-right: 25%;
+  padding-left: 25%;
+
+  font-weight: 10%;
+}
+h2{
+  font-size:2em;
+  font-weight: 500;
+}
